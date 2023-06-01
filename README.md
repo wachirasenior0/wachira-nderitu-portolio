@@ -38,7 +38,7 @@
 
 > This project will document my journey as a software developer.
 
-**[your_project__name]** is a...
+**[my porfolio]** is a mobile version web repsonsive page of my contribution to the software development world
 
 ## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
